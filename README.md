@@ -6,4 +6,4 @@
 
 ## London Jam Cam Mosaics by Sergiu Tripon
 
-**Demo**: [http://sergiu-tripon.com/london-jam-cam-mosaics/](http://sergiu-tripon.com/london-jam-cam-mosaics/)
+**Link**: [http://sergiu-tripon.com/london-jam-cam-mosaics/](http://sergiu-tripon.com/london-jam-cam-mosaics/)
